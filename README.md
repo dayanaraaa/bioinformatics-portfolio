@@ -14,6 +14,7 @@ This repository will document my learning projects and research work, including 
 
 ## Selected Projects
 - Viral drug target discovery (WNV NS5 protein)
+  https://github.com/dayanaraaa/wnv-ns5-analysis/blob/main/README.md
 - Comparative analysis of Coronavirus NSP12/NSP13 proteins
 - Evolutionary and structural analysis of TERT (telomerase reverse transcriptase)
 - Protein engineering and mutation characterisation in β-glucosidase
