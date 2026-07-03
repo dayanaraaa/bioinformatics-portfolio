@@ -12,6 +12,7 @@ This repository will document my learning projects and research work, including 
 - Protein sequence and structural analysis
 - Machine learning in bioinformatics
 - Genomics and transcriptomics
+- Protein visualization
 
 ## Current Work
 - MDS Dissertation
