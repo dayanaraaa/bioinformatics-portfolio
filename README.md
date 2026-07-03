@@ -6,7 +6,7 @@ My work spans protein sequence analysis, structural bioinformatics, and machine 
 This repository will document my learning projects and research work, including my ongoing dissertation.
 
 ## Current Work
-**MDS Dissertation**
+**MDS Dissertation**:
   https://github.com/dayanaraaa/mds-dissertation
   
   Machine learning-based prediction of protein binding partner presence using sequence-derived features
