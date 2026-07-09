@@ -7,7 +7,7 @@ This repository will document my learning projects and research work, including 
 
 ## Current Work
 **MDS Dissertation**:  
-https://github.com/dayanaraaa/mds-dissertation
+https://github.com/dayanaraaa/NirK-PCuAC-co-occurence-in-bacteria
   
   Machine learning-based prediction of protein binding partner presence using sequence-derived features
   and protein language model embeddings (ESM-2).
