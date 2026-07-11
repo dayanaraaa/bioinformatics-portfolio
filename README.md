@@ -1,7 +1,7 @@
 # Bioinformatics Portfolio
 
 I am currently an MDS student with a focus on bioinformatics, computational biology, and data science.
-I got into this through undergrad work on β-glucosidase mutants, and it pulled me toward protein language models — now most of what I do involves ESM-2 embeddings and structure prediction
+I got into this through undergrad work on β-glucosidase mutants, and it pulled me toward protein language models; now most of what I do involves ESM-2 embeddings and structure prediction
 This repository will document my learning projects and research work, including my ongoing dissertation.
 
 ## Current Work
