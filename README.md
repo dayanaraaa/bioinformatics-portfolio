@@ -1,8 +1,7 @@
 # Bioinformatics Portfolio
 
 I am currently an MDS student with a focus on bioinformatics, computational biology, and data science.
-My work spans protein sequence analysis, structural bioinformatics, and machine learning applied to biological systems, particularly bacterial and viral proteins.
-
+I got into this through undergrad work on β-glucosidase mutants, and it pulled me toward protein language models — now most of what I do involves ESM-2 embeddings and structure prediction
 This repository will document my learning projects and research work, including my ongoing dissertation.
 
 ## Current Work
