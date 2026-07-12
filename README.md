@@ -1,6 +1,6 @@
 # Bioinformatics Portfolio
 
-I'm an MSc Data Science (Bioinformatics) student at Durham University, working on protein sequence and structural analysis, drug-target discovery, and machine learning on protein sequence data. I came into this through undergrad work engineering a point mutation in β-glucosidase, and that's what pulled me toward protein language models; most of what I do now runs on ESM-2 embeddings and structure prediction.
+I'm a master of Data Science (Bioinformatics) student at Durham University, working on protein sequence and structural analysis, drug-target discovery, and machine learning on protein sequence data. I came into this through undergrad work engineering a point mutation in β-glucosidase, and that's what pulled me toward protein language models; most of what I do now runs on ESM-2 embeddings and structure prediction.
 
 ## Current Work
 
