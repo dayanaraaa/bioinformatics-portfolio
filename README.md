@@ -4,7 +4,7 @@ I'm a master of Data Science (Bioinformatics) student at Durham University, work
 
 ## Current Work
 
-**MSc Dissertation** — [NirK/PCuAC co-occurrence in bacteria](https://github.com/dayanaraaa/NirK-PCuAC-co-occurence-in-bacteria)
+**MDS Dissertation** — [NirK/PCuAC co-occurrence in bacteria](https://github.com/dayanaraaa/NirK-PCuAC-co-occurence-in-bacteria)
 
 I'm testing whether the bacterial co-occurrence of two copper-handling proteins, a Pcu chaperone and Nir nitrite reductase, can be predicted from sequence alone. I built a dataset via BLAST/HMMER homology search across bacterial genomes, filtered by copper-binding residue conservation from the literature, and classified organisms into three co-occurrence groups to look for sequence-level signals of protein partnership. Model development is in scikit-learn/pandas/NumPy, with R for statistical evaluation (subject to change as project develops).
 
