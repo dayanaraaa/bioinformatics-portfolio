@@ -10,13 +10,13 @@ I'm investigating whether the bacterial co-occurrence of two copper-handling pro
 
 ## Selected Projects
 
-- **[WNV NS5 drug target discovery](https://github.com/dayanaraaa/wnv-ns5-analysis)**
+- **[WNV NS5 drug target discovery](https://github.com/dayanaraaa/wnv-ns5-analysis)**  
 NIH-funded CURIE programme project screening the West Nile Virus NS5 protein for druggable pockets, combining sequence alignment, disorder prediction (IUPRED), and pocket druggability scoring (PockDrug). Narrowed 11 candidate binding pockets down to 2 high-priority sites by integrating conservation data with structural confidence. WNV causes 96% of US arboviral neuroinvasive disease cases and still has no approved human vaccine.
-- **Coronavirus NSP12/NSP13 comparative analysis**
+- **Coronavirus NSP12/NSP13 comparative analysis**  
 Compared four coronavirus clades (HCoV, BCoV, MERS, SARS) to find conserved, high-druggability pockets as broad-spectrum antiviral targets. Scored 4 candidate pockets (PockDrug 0.89–0.96) and identified Pocket 1 (0.96) as the strongest target based on conservation and surface accessibility.
-- **TERT evolutionary and structural analysis**
+- **TERT evolutionary and structural analysis**  
 Structural and evolutionary analysis of telomerase reverse transcriptase (UniProt O14746), a protein implicated in hepatocellular carcinoma, HPV-associated cancer, and Gaucher's disease. Ran BLAST homology search across three databases, multiple sequence alignment in Jalview, and phylogenetic tree construction, at the Siltberg-Liberles Lab, FIU.
-- **β-glucosidase protein engineering (N293L)**
+- **β-glucosidase protein engineering (N293L)**  
 The project that got me into this field. Engineered and characterised the N293L mutation in *Paenibacillus polymyxa* β-glucosidase B, then compared it against N293C/M/V mutants to see how residue polarity affects catalytic efficiency (T50 = 30.0 ± 18.1 °C, Kcat = 0.3 ± 0.1 min⁻¹). Results submitted to the D2D database.
 
 ## Research Interests  
